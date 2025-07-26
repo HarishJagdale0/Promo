@@ -1,5 +1,2 @@
 # Promo
-this is the project file for thefmfeff f
-msmvdav mdmv  csmwdm
-s bmsdv gv
-sfmdsmv mdmfwg grm
+this is the project file for thefmfeff f sv  vmfsg frw 
