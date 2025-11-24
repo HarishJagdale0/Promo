@@ -22,21 +22,22 @@
 |------------|-------------|
 | **Language** | Python 3.x |
 | **Libraries Used** | `qrcode`, `opencv-python`, `pyzbar`, `Pillow` |
-| **IDE (Recommended)** | VS Code / PyCharm / Jupyter Notebook |
+| **IDE (Recommended)** | VS Code  |
 
 ---
 
 ## 📂 Project Structure
-
-
-
+- Files Contains Of Projects.
 ---
 
-## ⚙️ Installation & Setup
+## ⚙️ Run This Web App
+
+  Local URL: http://localhost:8501
+  Network URL: http://10.91.64.231:8501
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/QR-Code-Generator-Recognition.git
+git clone https://github.com/harish-jagdale0/QR-Code-Generator-Recognition.git
 cd QR-Code-Generator-Recognition
 
 python -m venv venv
