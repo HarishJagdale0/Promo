@@ -1,0 +1,50 @@
+:root{
+  --bg:#0f1724;
+  --card:#0b1220;
+  --accent:#06b6d4;
+  --muted:#94a3b8;
+  --text:#e6eef8;
+}
+
+*{box-sizing:border-box}
+body{
+  margin:0;
+  font-family:Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  background: linear-gradient(180deg, #071024 0%, #081426 100%);
+  color:var(--text);
+  min-height:100vh;
+}
+
+.topbar{
+  padding:18px 24px;
+  border-bottom:1px solid rgba(255,255,255,0.03);
+  text-align:center;
+}
+.topbar h1{margin:0;font-size:20px}
+.topbar .sub{margin:4px 0 0;color:var(--muted);font-size:13px}
+
+.container{
+  max-width:980px;
+  margin:28px auto;
+  padding:0 16px;
+}
+
+.card{
+  background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));
+  border-radius:12px;
+  padding:18px;
+  margin-bottom:18px;
+  box-shadow: 0 6px 20px rgba(2,6,23,0.5);
+}
+
+.card h2{margin:0 0 10px;font-size:18px}
+label{display:block;font-size:13px;color:var(--muted);margin-bottom:6px}
+textarea{width:100%;padding:10px;border-radius:8px;background:#061226;border:1px solid rgba(255,255,255,0.03);color:var(--text);resize:vertical}
+.controls{display:flex;gap:8px;align-items:center;margin-top:10px}
+.controls select, .controls button{padding:8px 10px;border-radius:8px;border:none;background:rgba(255,255,255,0.03);color:var(--text);cursor:pointer}
+.controls button:hover{transform:translateY(-1px)}
+#qrcode-wrap{margin-top:12px;display:flex;gap:12px;align-items:center}
+#qrcode{background:white;padding:12px;border-radius:6px}
+.reader{width:100%;max-width:560px;height:auto;background:#000;border-radius:8px;overflow:hidden;min-height:260px;display:flex;align-items:center;justify-content:center;color:var(--muted)}
+footer.small{font-size:13px;color:var(--muted);text-align:center}
+a{color:var(--accent)}
