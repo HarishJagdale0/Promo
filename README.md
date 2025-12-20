@@ -5,7 +5,7 @@
 - The Frontend & Backend using project integration of webcam system of QR Generates.
 - It has been to developed by the **Code Recognize** have been developed a data.
 ---
-fbmsmgef e h q etmwh
+fbmsmgef e h q et
 
 ## 🚀 Features
 
