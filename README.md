@@ -4,7 +4,7 @@
 - This project allows users to **generate**, **save**, and **scan QR codes** effortlessly from text, URLs, or files.
 - The Frontend & Backend using project integration of webcam system of QR Generates.
 - It has been to developed by the **Code Recognize** have been developed a data.
-- m mvsv dsmvg gdmjerg rh ;ewmgldglw gejgpjgf ;gmg ggergr genwlngelw ldsged gfew fgpgewet rwlhme jgej joijerog ntioro noh r jejrntwenrwgjrw engojgre mgpjr wewelgmphj
+- m mvsv dsmvg gdmjerg rh ;ewmgldglw gejgpjgf ;gmg ggergr genwlngelw ldsged gfew fgpgewet rwlhme jgej joijerog ntioro noh r jejrntwenrwgjrw engojgre mgpjr we
 ---
 
 
