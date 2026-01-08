@@ -3,7 +3,9 @@
 - A simple and powerful **QR Code Generator and Recognition System** built with **Python** using `qrcode`, `opencv`, and `pyzbar` libraries.  
 - This project allows users to **generate**, **save**, and **scan QR codes** effortlessly from text, URLs, or files.
 - The Frontend & Backend using project integration of webcam system of QR Generates.
-- It has been to developed by the **Code Recognize** have been developed a data. 
+- It has been to developed by the **Code Recognize** have been developed a data.
+- this reposioty has been allows an user to dominant from text files,intergration project details on that ways i demonstated a performance for following to their developing ways are recognized og QR generated;,fggonnwrw
+- g
 ---
 
 
