@@ -5,7 +5,7 @@
 - The Frontend & Backend using project integration of webcam system of QR Generates.
 - It has been to developed by the **Code Recognize** have been developed a data.
 - This reposioty has been allows an user to dominant from text files,intergration.
-- sfvsfvaf svmfnsrnq fqmb'fwrl    s;fnelb ald  blw f;smg;qe a
+- sfvsfvaf svmfnsrnq fqmb'fwrl    s;fnelb ald  blw f;s
 ---
 
 
